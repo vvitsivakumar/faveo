@@ -1,0 +1,47 @@
+{
+    "name": "diablomedia/phpunit-pretty-printer",
+    "type": "library",
+    "description": "A PHPUnit result printer that shows per-file test progress and execution times",
+    "keywords": [
+        "phpunit",
+        "result",
+        "printer",
+        "unit",
+        "test"
+    ],
+    "homepage": "https://github.com/diablomedia/phpunit-pretty-printer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ari Pringle",
+            "email": "ari@diablomedia.com",
+            "homepage": "https://diablomedia.com"
+        },
+        {
+            "name": "Jay Klehr",
+            "email": "jay@diablomedia.com",
+            "homepage": "https://diablomedia.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3 || ^8.0.0 || ^8.1.0",
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DiabloMedia\\PHPUnit\\Printer\\": "src/DiabloMedia/PHPUnit/Printer",
+            "DiabloMedia\\PHPUnit\\Printer\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "3.3.2",
+        "nazar-pc/phpt-tests-runner": "^1.4.0",
+        "phpstan/phpstan": "1.2.0"
+    },
+    "scripts": {
+        "check-style": "php-cs-fixer fix --dry-run -vv",
+        "fix-style": "php-cs-fixer fix",
+        "static-analysis": "phpstan analyse -l 7 -c phpstan.neon src tests",
+        "tests": "phpt-tests-runner tests/phpt"
+    }
+}

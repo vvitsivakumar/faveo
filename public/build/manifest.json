@@ -1,0 +1,1055 @@
+{
+  "AdminNavigationBar.css": {
+    "file": "v9.1.0/assets/AdminNavigationBar.css",
+    "src": "AdminNavigationBar.css"
+  },
+  "BarcodeModal.css": {
+    "file": "v9.1.0/assets/BarcodeModal.css",
+    "src": "BarcodeModal.css"
+  },
+  "CurrencySelect.css": {
+    "file": "v9.1.0/assets/CurrencySelect.css",
+    "src": "CurrencySelect.css"
+  },
+  "DataTableActions.css": {
+    "file": "v9.1.0/assets/DataTableActions.css",
+    "src": "DataTableActions.css"
+  },
+  "FileManager.css": {
+    "file": "v9.1.0/assets/FileManager.css",
+    "src": "FileManager.css"
+  },
+  "FormGenerator.css": {
+    "file": "v9.1.0/assets/FormGenerator.css",
+    "src": "FormGenerator.css"
+  },
+  "HelpSection.css": {
+    "file": "v9.1.0/assets/HelpSection.css",
+    "src": "HelpSection.css"
+  },
+  "Loader.css": {
+    "file": "v9.1.0/assets/Loader.css",
+    "src": "Loader.css"
+  },
+  "LoginLogs.css": {
+    "file": "v9.1.0/assets/LoginLogs.css",
+    "src": "LoginLogs.css"
+  },
+  "PermaLink.css": {
+    "file": "v9.1.0/assets/PermaLink.css",
+    "src": "PermaLink.css"
+  },
+  "SDReports.css": {
+    "file": "v9.1.0/assets/SDReports.css",
+    "src": "SDReports.css"
+  },
+  "TaskActionButtons.css": {
+    "file": "v9.1.0/assets/TaskActionButtons.css",
+    "src": "TaskActionButtons.css"
+  },
+  "TicketsIndex.css": {
+    "file": "v9.1.0/assets/TicketsIndex.css",
+    "src": "TicketsIndex.css"
+  },
+  "_AdminNavigationBar.js": {
+    "css": [
+      "v9.1.0/assets/AdminNavigationBar.css"
+    ],
+    "file": "v9.1.0/chunks/AdminNavigationBar.js",
+    "imports": [
+      "_vendor.js",
+      "_bootstrap.js"
+    ]
+  },
+  "_BarcodeModal.js": {
+    "css": [
+      "v9.1.0/assets/BarcodeModal.css"
+    ],
+    "file": "v9.1.0/chunks/BarcodeModal.js",
+    "imports": [
+      "_vendor.js",
+      "_bootstrap.js"
+    ]
+  },
+  "_CurrencySelect.js": {
+    "css": [
+      "v9.1.0/assets/CurrencySelect.css"
+    ],
+    "file": "v9.1.0/chunks/CurrencySelect.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js"
+    ]
+  },
+  "_DataTableActions.js": {
+    "css": [
+      "v9.1.0/assets/DataTableActions.css"
+    ],
+    "file": "v9.1.0/chunks/DataTableActions.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js"
+    ]
+  },
+  "_DataTableIsDefault.js": {
+    "file": "v9.1.0/chunks/DataTableIsDefault.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js"
+    ]
+  },
+  "_FileManager.js": {
+    "css": [
+      "v9.1.0/assets/FileManager.css"
+    ],
+    "file": "v9.1.0/chunks/FileManager.js",
+    "imports": [
+      "_vendor.js",
+      "_bootstrap.js"
+    ]
+  },
+  "_FormGenerator.js": {
+    "css": [
+      "v9.1.0/assets/FormGenerator.css"
+    ],
+    "file": "v9.1.0/chunks/FormGenerator.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js"
+    ]
+  },
+  "_HelpSection.js": {
+    "css": [
+      "v9.1.0/assets/HelpSection.css"
+    ],
+    "file": "v9.1.0/chunks/HelpSection.js",
+    "imports": [
+      "_vendor.js",
+      "_bootstrap.js"
+    ]
+  },
+  "_Loader.js": {
+    "css": [
+      "v9.1.0/assets/Loader.css"
+    ],
+    "file": "v9.1.0/chunks/Loader.js",
+    "imports": [
+      "_vendor.js",
+      "_bootstrap.js"
+    ]
+  },
+  "_LoginLogs.js": {
+    "css": [
+      "v9.1.0/assets/LoginLogs.css"
+    ],
+    "file": "v9.1.0/chunks/LoginLogs.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js"
+    ]
+  },
+  "_PermaLink.js": {
+    "css": [
+      "v9.1.0/assets/PermaLink.css"
+    ],
+    "file": "v9.1.0/chunks/PermaLink.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js"
+    ]
+  },
+  "_SDReports.js": {
+    "css": [
+      "v9.1.0/assets/SDReports.css"
+    ],
+    "file": "v9.1.0/chunks/SDReports.js",
+    "imports": [
+      "_vendor.js",
+      "_bootstrap.js",
+      "_agentRouter.js",
+      "_DataTableActions.js",
+      "_PermaLink.js",
+      "_FormGenerator.js"
+    ]
+  },
+  "_TaskActionButtons.js": {
+    "css": [
+      "v9.1.0/assets/TaskActionButtons.css"
+    ],
+    "file": "v9.1.0/chunks/TaskActionButtons.js",
+    "imports": [
+      "_vendor.js",
+      "_bootstrap.js"
+    ]
+  },
+  "_TicketsIndex.js": {
+    "css": [
+      "v9.1.0/assets/TicketsIndex.css"
+    ],
+    "file": "v9.1.0/chunks/TicketsIndex.js",
+    "imports": [
+      "_vendor.js",
+      "_bootstrap.js",
+      "_FormGenerator.js",
+      "_Loader.js",
+      "_approvalTicketRules.js",
+      "_DataTableActions.js"
+    ]
+  },
+  "_adminRouter.js": {
+    "css": [
+      "v9.1.0/assets/adminRouter.css"
+    ],
+    "file": "v9.1.0/chunks/adminRouter.js",
+    "imports": [
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_HelpSection.js",
+      "_bootstrap.js",
+      "_DataTableActions.js"
+    ]
+  },
+  "_agentRouter.js": {
+    "css": [
+      "v9.1.0/assets/agentRouter.css"
+    ],
+    "file": "v9.1.0/chunks/agentRouter.js",
+    "imports": [
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_HelpSection.js",
+      "_bootstrap.js",
+      "_DataTableActions.js",
+      "_LoginLogs.js",
+      "_BarcodeModal.js",
+      "_TicketsIndex.js",
+      "_PermaLink.js"
+    ]
+  },
+  "_approvalTicketRules.js": {
+    "css": [
+      "v9.1.0/assets/approvalTicketRules.css"
+    ],
+    "file": "v9.1.0/chunks/approvalTicketRules.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js"
+    ]
+  },
+  "_bootstrap.js": {
+    "css": [
+      "v9.1.0/assets/bootstrap.css"
+    ],
+    "file": "v9.1.0/chunks/bootstrap.js",
+    "imports": [
+      "_vendor.js"
+    ]
+  },
+  "_clientRouter.js": {
+    "css": [
+      "v9.1.0/assets/clientRouter.css"
+    ],
+    "file": "v9.1.0/chunks/clientRouter.js",
+    "imports": [
+      "_vendor.js",
+      "_bootstrap.js",
+      "_LoginLogs.js",
+      "_BarcodeModal.js",
+      "_DataTableActions.js",
+      "_approvalTicketRules.js"
+    ]
+  },
+  "_vendor.js": {
+    "css": [
+      "v9.1.0/assets/vendor.css"
+    ],
+    "file": "v9.1.0/chunks/vendor.js"
+  },
+  "adminRouter.css": {
+    "file": "v9.1.0/assets/adminRouter.css",
+    "src": "adminRouter.css"
+  },
+  "agentRouter.css": {
+    "file": "v9.1.0/assets/agentRouter.css",
+    "src": "agentRouter.css"
+  },
+  "app/AutoAssign/views/js/autoAssign.js": {
+    "file": "v9.1.0/entry/autoAssign.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/AutoAssign/views/js/autoAssign.js"
+  },
+  "app/Bill/views/js/systemBilling.css": {
+    "file": "v9.1.0/assets/systemBilling.css",
+    "src": "app/Bill/views/js/systemBilling.css"
+  },
+  "app/Bill/views/js/systemBilling.js": {
+    "css": [
+      "v9.1.0/assets/systemBilling.css"
+    ],
+    "file": "v9.1.0/entry/systemBilling.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_agentRouter.js",
+      "_DataTableActions.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_CurrencySelect.js",
+      "_DataTableIsDefault.js",
+      "_HelpSection.js",
+      "_LoginLogs.js",
+      "_BarcodeModal.js",
+      "_TicketsIndex.js",
+      "_Loader.js",
+      "_approvalTicketRules.js",
+      "_PermaLink.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/Bill/views/js/systemBilling.js"
+  },
+  "app/FaveoLog/views/js/systemLog.css": {
+    "file": "v9.1.0/assets/systemLog.css",
+    "src": "app/FaveoLog/views/js/systemLog.css"
+  },
+  "app/FaveoLog/views/js/systemLog.js": {
+    "css": [
+      "v9.1.0/assets/systemLog.css"
+    ],
+    "file": "v9.1.0/entry/systemLog.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/FaveoLog/views/js/systemLog.js"
+  },
+  "app/FaveoModule/views/js/optimizeModules.css": {
+    "file": "v9.1.0/assets/optimizeModules.css",
+    "src": "app/FaveoModule/views/js/optimizeModules.css"
+  },
+  "app/FaveoModule/views/js/optimizeModules.js": {
+    "css": [
+      "v9.1.0/assets/optimizeModules.css"
+    ],
+    "file": "v9.1.0/entry/optimizeModules.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_HelpSection.js",
+      "_DataTableActions.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/FaveoModule/views/js/optimizeModules.js"
+  },
+  "app/FaveoReport/views/js/systemReport.css": {
+    "file": "v9.1.0/assets/systemReport.css",
+    "src": "app/FaveoReport/views/js/systemReport.css"
+  },
+  "app/FaveoReport/views/js/systemReport.js": {
+    "css": [
+      "v9.1.0/assets/systemReport.css"
+    ],
+    "file": "v9.1.0/entry/systemReport.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_agentRouter.js",
+      "_SDReports.js",
+      "_FormGenerator.js",
+      "_DataTableActions.js",
+      "_adminRouter.js",
+      "_HelpSection.js",
+      "_LoginLogs.js",
+      "_BarcodeModal.js",
+      "_TicketsIndex.js",
+      "_Loader.js",
+      "_approvalTicketRules.js",
+      "_PermaLink.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/FaveoReport/views/js/systemReport.js"
+  },
+  "app/Health/views/js/healthCheck.css": {
+    "file": "v9.1.0/assets/healthCheck.css",
+    "src": "app/Health/views/js/healthCheck.css"
+  },
+  "app/Health/views/js/healthCheck.js": {
+    "css": [
+      "v9.1.0/assets/healthCheck.css"
+    ],
+    "file": "v9.1.0/entry/healthCheck.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_HelpSection.js",
+      "_DataTableActions.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/Health/views/js/healthCheck.js"
+  },
+  "app/Location/views/js/systemLocation.js": {
+    "file": "v9.1.0/entry/systemLocation.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_DataTableActions.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Location/views/js/systemLocation.js"
+  },
+  "app/Notify/views/js/notify.css": {
+    "file": "v9.1.0/assets/notify.css",
+    "src": "app/Notify/views/js/notify.css"
+  },
+  "app/Notify/views/js/notify.js": {
+    "css": [
+      "v9.1.0/assets/notify.css"
+    ],
+    "file": "v9.1.0/entry/notify.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_DataTableActions.js",
+      "_FormGenerator.js",
+      "_HelpSection.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/Notify/views/js/notify.js"
+  },
+  "app/Plugins/AdHocApproval/views/js/adHocApproval.js": {
+    "file": "v9.1.0/entry/adHocApproval.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/AdHocApproval/views/js/adHocApproval.js"
+  },
+  "app/Plugins/AllianceCRM/views/js/allianceCRM.css": {
+    "file": "v9.1.0/assets/allianceCRM.css",
+    "src": "app/Plugins/AllianceCRM/views/js/allianceCRM.css"
+  },
+  "app/Plugins/AllianceCRM/views/js/allianceCRM.js": {
+    "css": [
+      "v9.1.0/assets/allianceCRM.css"
+    ],
+    "file": "v9.1.0/entry/allianceCRM.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/AllianceCRM/views/js/allianceCRM.js"
+  },
+  "app/Plugins/AzureActiveDirectory/views/js/azureActiveDirectory.css": {
+    "file": "v9.1.0/assets/azureActiveDirectory.css",
+    "src": "app/Plugins/AzureActiveDirectory/views/js/azureActiveDirectory.css"
+  },
+  "app/Plugins/AzureActiveDirectory/views/js/azureActiveDirectory.js": {
+    "css": [
+      "v9.1.0/assets/azureActiveDirectory.css"
+    ],
+    "file": "v9.1.0/entry/azureActiveDirectory.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_DataTableActions.js",
+      "_FormGenerator.js",
+      "_HelpSection.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/AzureActiveDirectory/views/js/azureActiveDirectory.js"
+  },
+  "app/Plugins/CRTWorkflow/views/js/crtWorkflow.js": {
+    "file": "v9.1.0/entry/crtWorkflow.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/CRTWorkflow/views/js/crtWorkflow.js"
+  },
+  "app/Plugins/Calendar/views/js/calendar.css": {
+    "file": "v9.1.0/assets/calendar.css",
+    "src": "app/Plugins/Calendar/views/js/calendar.css"
+  },
+  "app/Plugins/Calendar/views/js/calendar.js": {
+    "css": [
+      "v9.1.0/assets/calendar.css"
+    ],
+    "file": "v9.1.0/entry/calendar.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_agentRouter.js",
+      "_DataTableActions.js",
+      "_TaskActionButtons.js",
+      "_TicketsIndex.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_HelpSection.js",
+      "_LoginLogs.js",
+      "_BarcodeModal.js",
+      "_PermaLink.js",
+      "_Loader.js",
+      "_approvalTicketRules.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Calendar/views/js/calendar.js"
+  },
+  "app/Plugins/Chat/views/js/chat.css": {
+    "file": "v9.1.0/assets/chat.css",
+    "src": "app/Plugins/Chat/views/js/chat.css"
+  },
+  "app/Plugins/Chat/views/js/chat.js": {
+    "css": [
+      "v9.1.0/assets/chat.css"
+    ],
+    "file": "v9.1.0/entry/chat.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_DataTableActions.js",
+      "_HelpSection.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Chat/views/js/chat.js"
+  },
+  "app/Plugins/CustomCSS/views/js/customCss.js": {
+    "file": "v9.1.0/entry/customCss.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_DataTableActions.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/CustomCSS/views/js/customCss.js"
+  },
+  "app/Plugins/CustomJs/views/js/customJs.js": {
+    "file": "v9.1.0/entry/customJs.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_DataTableActions.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/CustomJs/views/js/customJs.js"
+  },
+  "app/Plugins/CustomLanguage/views/js/customLang.js": {
+    "file": "v9.1.0/entry/customLang.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/CustomLanguage/views/js/customLang.js"
+  },
+  "app/Plugins/DepartmentStatusLink/views/js/departmentStatus.js": {
+    "file": "v9.1.0/entry/departmentStatus.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/DepartmentStatusLink/views/js/departmentStatus.js"
+  },
+  "app/Plugins/Facebook/views/js/facebook.css": {
+    "file": "v9.1.0/assets/facebook.css",
+    "src": "app/Plugins/Facebook/views/js/facebook.css"
+  },
+  "app/Plugins/Facebook/views/js/facebook.js": {
+    "css": [
+      "v9.1.0/assets/facebook.css"
+    ],
+    "file": "v9.1.0/entry/facebook.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_DataTableActions.js",
+      "_HelpSection.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Facebook/views/js/facebook.js"
+  },
+  "app/Plugins/Instagram/views/js/instagram.css": {
+    "file": "v9.1.0/assets/instagram.css",
+    "src": "app/Plugins/Instagram/views/js/instagram.css"
+  },
+  "app/Plugins/Instagram/views/js/instagram.js": {
+    "css": [
+      "v9.1.0/assets/instagram.css"
+    ],
+    "file": "v9.1.0/entry/instagram.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_DataTableActions.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Instagram/views/js/instagram.js"
+  },
+  "app/Plugins/Ldap/views/js/ldap.css": {
+    "file": "v9.1.0/assets/ldap.css",
+    "src": "app/Plugins/Ldap/views/js/ldap.css"
+  },
+  "app/Plugins/Ldap/views/js/ldap.js": {
+    "css": [
+      "v9.1.0/assets/ldap.css"
+    ],
+    "file": "v9.1.0/entry/ldap.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_DataTableActions.js",
+      "_DataTableIsDefault.js",
+      "_FormGenerator.js",
+      "_HelpSection.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Ldap/views/js/ldap.js"
+  },
+  "app/Plugins/LimeSurvey/views/js/limesurvey.js": {
+    "file": "v9.1.0/entry/limesurvey.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/LimeSurvey/views/js/limesurvey.js"
+  },
+  "app/Plugins/Line/views/js/line.css": {
+    "file": "v9.1.0/assets/line.css",
+    "src": "app/Plugins/Line/views/js/line.css"
+  },
+  "app/Plugins/Line/views/js/line.js": {
+    "css": [
+      "v9.1.0/assets/line.css"
+    ],
+    "file": "v9.1.0/entry/line.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_DataTableActions.js",
+      "_HelpSection.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Line/views/js/line.js"
+  },
+  "app/Plugins/SMS/views/js/sms.css": {
+    "file": "v9.1.0/assets/sms.css",
+    "src": "app/Plugins/SMS/views/js/sms.css"
+  },
+  "app/Plugins/SMS/views/js/sms.js": {
+    "css": [
+      "v9.1.0/assets/sms.css"
+    ],
+    "file": "v9.1.0/entry/sms.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_clientRouter.js",
+      "_PermaLink.js",
+      "_adminRouter.js",
+      "_LoginLogs.js",
+      "_BarcodeModal.js",
+      "_DataTableActions.js",
+      "_approvalTicketRules.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/SMS/views/js/sms.js"
+  },
+  "app/Plugins/ServiceDesk/views/js/serviceDesk.css": {
+    "file": "v9.1.0/assets/serviceDesk.css",
+    "src": "app/Plugins/ServiceDesk/views/js/serviceDesk.css"
+  },
+  "app/Plugins/ServiceDesk/views/js/serviceDesk.js": {
+    "css": [
+      "v9.1.0/assets/serviceDesk.css"
+    ],
+    "file": "v9.1.0/entry/serviceDesk.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_FormGenerator.js",
+      "_SDReports.js",
+      "_clientRouter.js",
+      "_agentRouter.js",
+      "_DataTableActions.js",
+      "_Loader.js",
+      "_TicketsIndex.js",
+      "_TaskActionButtons.js",
+      "_adminRouter.js",
+      "_CurrencySelect.js",
+      "_AdminNavigationBar.js",
+      "_PermaLink.js",
+      "_LoginLogs.js",
+      "_BarcodeModal.js",
+      "_approvalTicketRules.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/ServiceDesk/views/js/serviceDesk.js"
+  },
+  "app/Plugins/Slack/views/js/slack.js": {
+    "file": "v9.1.0/entry/slack.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Slack/views/js/slack.js"
+  },
+  "app/Plugins/Telephony/views/js/telephony.css": {
+    "file": "v9.1.0/assets/telephony.css",
+    "src": "app/Plugins/Telephony/views/js/telephony.css"
+  },
+  "app/Plugins/Telephony/views/js/telephony.js": {
+    "css": [
+      "v9.1.0/assets/telephony.css"
+    ],
+    "file": "v9.1.0/entry/telephony.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Telephony/views/js/telephony.js"
+  },
+  "app/Plugins/TicketArchive/views/js/TicketArchive.css": {
+    "file": "v9.1.0/assets/TicketArchive.css",
+    "src": "app/Plugins/TicketArchive/views/js/TicketArchive.css"
+  },
+  "app/Plugins/TicketArchive/views/js/TicketArchive.js": {
+    "css": [
+      "v9.1.0/assets/TicketArchive.css"
+    ],
+    "file": "v9.1.0/entry/TicketArchive.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_vendor.js",
+      "_TicketsIndex.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js",
+      "_Loader.js",
+      "_approvalTicketRules.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/TicketArchive/views/js/TicketArchive.js"
+  },
+  "app/Plugins/Twitter/views/js/twitter.css": {
+    "file": "v9.1.0/assets/twitter.css",
+    "src": "app/Plugins/Twitter/views/js/twitter.css"
+  },
+  "app/Plugins/Twitter/views/js/twitter.js": {
+    "css": [
+      "v9.1.0/assets/twitter.css"
+    ],
+    "file": "v9.1.0/entry/twitter.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Twitter/views/js/twitter.js"
+  },
+  "app/Plugins/Whatsapp/views/js/whatsapp.css": {
+    "file": "v9.1.0/assets/whatsapp.css",
+    "src": "app/Plugins/Whatsapp/views/js/whatsapp.css"
+  },
+  "app/Plugins/Whatsapp/views/js/whatsapp.js": {
+    "css": [
+      "v9.1.0/assets/whatsapp.css"
+    ],
+    "file": "v9.1.0/entry/whatsapp.js",
+    "imports": [
+      "_bootstrap.js",
+      "_adminRouter.js",
+      "_vendor.js",
+      "_DataTableActions.js",
+      "_FormGenerator.js",
+      "_HelpSection.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Whatsapp/views/js/whatsapp.js"
+  },
+  "app/Plugins/Zendesk/views/js/zendesk.js": {
+    "file": "v9.1.0/entry/zendesk.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_DataTableActions.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "app/Plugins/Zendesk/views/js/zendesk.js"
+  },
+  "app/TimeTrack/resources/views/js/timeTrack.css": {
+    "file": "v9.1.0/assets/timeTrack.css",
+    "src": "app/TimeTrack/resources/views/js/timeTrack.css"
+  },
+  "app/TimeTrack/resources/views/js/timeTrack.js": {
+    "css": [
+      "v9.1.0/assets/timeTrack.css"
+    ],
+    "file": "v9.1.0/entry/timeTrack.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_FormGenerator.js",
+      "_DataTableActions.js",
+      "_HelpSection.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "app/TimeTrack/resources/views/js/timeTrack.js"
+  },
+  "approvalTicketRules.css": {
+    "file": "v9.1.0/assets/approvalTicketRules.css",
+    "src": "approvalTicketRules.css"
+  },
+  "bootstrap.css": {
+    "file": "v9.1.0/assets/bootstrap.css",
+    "src": "bootstrap.css"
+  },
+  "clientRouter.css": {
+    "file": "v9.1.0/assets/clientRouter.css",
+    "src": "clientRouter.css"
+  },
+  "resources/assets/js/admin.css": {
+    "file": "v9.1.0/assets/admin.css",
+    "src": "resources/assets/js/admin.css"
+  },
+  "resources/assets/js/admin.js": {
+    "css": [
+      "v9.1.0/assets/admin.css"
+    ],
+    "file": "v9.1.0/entry/admin.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_adminRouter.js",
+      "_BarcodeModal.js",
+      "_FileManager.js",
+      "_Loader.js",
+      "_DataTableActions.js",
+      "_FormGenerator.js",
+      "_AdminNavigationBar.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "resources/assets/js/admin.js"
+  },
+  "resources/assets/js/agent.css": {
+    "file": "v9.1.0/assets/agent.css",
+    "src": "resources/assets/js/agent.css"
+  },
+  "resources/assets/js/agent.js": {
+    "css": [
+      "v9.1.0/assets/agent.css"
+    ],
+    "file": "v9.1.0/entry/agent.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_BarcodeModal.js",
+      "_FileManager.js",
+      "_FormGenerator.js",
+      "_Loader.js",
+      "_DataTableActions.js",
+      "_agentRouter.js",
+      "_AdminNavigationBar.js",
+      "_HelpSection.js",
+      "_LoginLogs.js",
+      "_TicketsIndex.js",
+      "_approvalTicketRules.js",
+      "_PermaLink.js"
+    ],
+    "isEntry": true,
+    "src": "resources/assets/js/agent.js"
+  },
+  "resources/assets/js/app.css": {
+    "file": "v9.1.0/assets/app.css",
+    "src": "resources/assets/js/app.css"
+  },
+  "resources/assets/js/app.js": {
+    "css": [
+      "v9.1.0/assets/app.css"
+    ],
+    "file": "v9.1.0/entry/app.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_clientRouter.js",
+      "_BarcodeModal.js",
+      "_FileManager.js",
+      "_DataTableActions.js",
+      "_LoginLogs.js",
+      "_approvalTicketRules.js"
+    ],
+    "isEntry": true,
+    "src": "resources/assets/js/app.js"
+  },
+  "resources/assets/js/chatWidget.css": {
+    "file": "v9.1.0/assets/chatWidget.css",
+    "src": "resources/assets/js/chatWidget.css"
+  },
+  "resources/assets/js/chatWidget.js": {
+    "css": [
+      "v9.1.0/assets/chatWidget.css"
+    ],
+    "file": "v9.1.0/entry/chatWidget.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js"
+    ],
+    "isEntry": true,
+    "src": "resources/assets/js/chatWidget.js"
+  },
+  "resources/assets/js/headerMenu.css": {
+    "file": "v9.1.0/assets/headerMenu.css",
+    "src": "resources/assets/js/headerMenu.css"
+  },
+  "resources/assets/js/headerMenu.js": {
+    "css": [
+      "v9.1.0/assets/headerMenu.css"
+    ],
+    "file": "v9.1.0/entry/headerMenu.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js"
+    ],
+    "isEntry": true,
+    "src": "resources/assets/js/headerMenu.js"
+  },
+  "resources/assets/js/helpwidget.js": {
+    "file": "v9.1.0/entry/helpwidget.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_HelpSection.js"
+    ],
+    "isEntry": true,
+    "src": "resources/assets/js/helpwidget.js"
+  },
+  "resources/assets/js/navigation.js": {
+    "file": "v9.1.0/entry/navigation.js",
+    "imports": [
+      "_bootstrap.js",
+      "_vendor.js",
+      "_AdminNavigationBar.js"
+    ],
+    "isEntry": true,
+    "src": "resources/assets/js/navigation.js"
+  },
+  "vendor.css": {
+    "file": "v9.1.0/assets/vendor.css",
+    "src": "vendor.css"
+  }
+}
